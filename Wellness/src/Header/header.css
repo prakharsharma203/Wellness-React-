@@ -1,0 +1,23 @@
+h1{
+    color: palevioletred;
+}
+.help{
+    display: flex;
+    justify-content: space-evenly;
+}
+.home{
+    background-color: palevioletred;
+    padding: 10px 100px;
+    color: white;
+}
+.others{
+    background-color: gray;
+    padding: 10px 145px;
+    color: white;
+    overflow: hidden;
+}
+img{
+    object-fit: cover;
+    width: 1500px;
+    height: 700px;
+}
